@@ -41,11 +41,6 @@
       top: 4.5rem;
       right: 4.5rem;
     }
-
-    @include respond(phone) {
-      top: 3rem;
-      right: 3rem;
-    }
   }
 
   &__nav {
