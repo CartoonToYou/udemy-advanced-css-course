@@ -267,6 +267,7 @@
     width: 1.5rem;
     height: 1.5rem;
     fill: var(--color-primary);
+    background-image: linear-gradient(to right, red, green);
   }
 
   &__location {
